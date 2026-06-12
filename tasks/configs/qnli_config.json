@@ -1,0 +1,9 @@
+{
+  "task": "qnli",
+  "paths": {
+    "train": "/path/to/your/workspace/name_workspace/tasks/data/qnli/train.jsonl",
+    "test": "/path/to/your/workspace/name_workspace/tasks/data/qnli/test.jsonl",
+    "val": "/path/to/your/workspace/name_workspace/tasks/data/qnli/val.jsonl"
+  },
+  "name": "qnli"
+}

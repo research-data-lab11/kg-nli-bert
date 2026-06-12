@@ -1,0 +1,9 @@
+{
+  "task": "sick_enriched",
+  "paths": {
+    "train": "/path/to/your/workspace/name_workspace/tasks/data/sick_enriched/enriched_train_aristotuple.json",
+    "val": "/path/to/your/workspace/name_workspace/tasks/data/sick_enriched/dev.txt",
+    "test": "/path/to/your/workspace/name_workspace/tasks/data/sick_enriched/test.txt"
+  },
+  "name": "sick_enriched"
+}

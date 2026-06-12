@@ -1,0 +1,9 @@
+{
+  "task": "sick",
+  "paths": {
+    "train": "/path/to/your/workspace/name_workspace/tasks/data/sick/train.txt",
+    "val": "/path/to/your/workspace/name_workspace/tasks/data/sick/dev.txt",
+    "test": "/path/to/your/workspace/name_workspace/tasks/data/sick/test.txt"
+  },
+  "name": "sick"
+}

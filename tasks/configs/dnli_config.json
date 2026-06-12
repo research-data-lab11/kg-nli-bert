@@ -1,0 +1,9 @@
+{
+  "task": "dnli",
+  "paths": {
+    "train": "/path/to/your/workspace/name_workspace/tasks/data/dnli/train.txt",
+    "val": " /path/to/your/workspace/name_workspace/tasks/data/dnli/dev.txt",
+    "test": "/path/to/your/workspace/name_workspace/tasks/data/dnli/test.txt"
+  },
+  "name": "dnli"
+}

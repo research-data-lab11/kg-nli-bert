@@ -1,0 +1,9 @@
+{
+  "task": "snli_enriched3",
+  "paths": {
+    "test": "/path/to/your/workspace/name_workspace/tasks/data/snli_enriched3/test.jsonl",
+    "train": "/path/to/your/workspace/name_workspace/tasks/data/snli_enriched3/enriched_train_conceptnet.json",
+    "val": "/path/to/your/workspace/name_workspace/tasks/data/snli_enriched3/val.jsonl"
+  },
+  "name": "snli_enriched3"
+}

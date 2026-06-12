@@ -1,0 +1,9 @@
+{
+  "task": "qnli_enriched2",
+  "paths": {
+    "train": "/path/to/your/workspace/name_workspace/tasks/data/qnli_enriched2/enriched_train_wordnet.json",
+    "test": "/path/to/your/workspace/name_workspace/tasks/data/qnli_enriched2/test.jsonl",
+    "val": "/path/to/your/workspace/name_workspace/tasks/data/qnli_enriched2/val.jsonl"
+  },
+  "name": "qnli_enriched2"
+}

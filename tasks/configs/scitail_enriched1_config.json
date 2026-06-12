@@ -1,0 +1,9 @@
+{
+  "task": "scitail_enriched1",
+  "paths": {
+    "train": "/path/to/your/workspace/name_workspace/tasks/data/scitail_enriched1/enriched_train_wordnet.json",
+    "val": "/path/to/your/workspace/name_workspace/tasks/data/scitail_enriched1/val.jsonl",
+    "test": "/path/to/your/workspace/name_workspace/tasks/data/scitail_enriched1/test.jsonl"
+  },
+  "name": "scitail_enriched1"
+}

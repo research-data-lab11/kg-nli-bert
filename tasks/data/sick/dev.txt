@@ -1,0 +1,500 @@
+The young boys are playing outdoors and the man is smiling nearby	There is no boy playing outdoors and there is no man smiling	CONTRADICTION
+A person in a black jacket is doing tricks on a motorbike	A skilled person is riding a bicycle on one wheel	NEUTRAL
+Four children are doing backbends in the gym	Four girls are doing backbends and playing outdoors	NEUTRAL
+A player is throwing the ball	Two teams are competing in a football match	NEUTRAL
+Five children are standing in front of a wooden hut	Five children are standing in a wooden hut	NEUTRAL
+Few people are eating at red tables in a restaurant without lights	A large group of Asian people is eating at a restaurant	NEUTRAL
+Someone is on a black and white motorcycle and is standing on the seat	A motorcycle is riding standing up on the seat of the vehicle	NEUTRAL
+Two dogs are playing by a tree	Two dogs are playing by a plant	ENTAILMENT
+A girl in white is dancing	A girl is wearing white clothes and is dancing	ENTAILMENT
+There is no girl in white dancing	A girl in white is dancing	CONTRADICTION
+The equipment in front of the blond dancing girl is sound	A girl in white is dancing	NEUTRAL
+A girl in white is dancing	The blond girl is dancing in front of the sound equipment	NEUTRAL
+The children of a family are playing and waiting	An Asian man is dancing and three kids are looking	NEUTRAL
+A hiker is on top of the mountain and is doing a joyful dance	A hiker is on top of the mountain and is dancing	ENTAILMENT
+A boy is standing outside the water	The boy is wading through the blue ocean	NEUTRAL
+A bald person is playing a guitar	A person has blonde and flyaway hair and is playing a guitar	NEUTRAL
+An old, topless woman is covered in paint	A young, topless woman is covered in paint	NEUTRAL
+A group of children in uniforms is standing at a gate and there is no one kissing the mother	A crowd of people is near the water	NEUTRAL
+A brown and white dog is running through the tall grass	A brown and white dog is moving through the wild grass	NEUTRAL
+A white and tan dog is running through the tall and green grass	A white and tan dog is running through a field	ENTAILMENT
+A man is sitting near a bike and is writing a note	A man is standing near a bike and is writing on a piece paper	NEUTRAL
+A group of scouts are hiking through the grass	A group of explorers are walking through the grass	NEUTRAL
+Two men are taking a break from a trip on a snowy road	Two men with cars are on the side of a snowy road	NEUTRAL
+A lady is surfing and riding a wave	A blond girl is looking at the waves	NEUTRAL
+The woman wearing silver pants, pink bellbottoms and a pink scarf is riding a bike	Pink bellbottoms and a pink scarf aren't to be worn by women with silver pants or bike riding people	NEUTRAL
+The woman wearing silver pants, pink bellbottoms and a pink scarf is riding a bike	A pedestrian woman is building pink bicycles for boa wearing riders	NEUTRAL
+A biker is wearing gear which is black	A biker wearing black is breaking the gears	NEUTRAL
+A woman is taking off a cloak, which is very large, and revealing an extravagant dress	A woman is putting on a cloak, which is very large, and concealing an extravagant dress	CONTRADICTION
+A boy is climbing up a wall artificially built for climbing and is attached to a rope	A little boy, who looks fearful, is on a climbing wall.	NEUTRAL
+A man isn't tossing a kid into the swimming pool that is near the ocean	The man is tossing a kid into the swimming pool that is near the ocean	CONTRADICTION
+One man is climbing a cliff with a rope	A person with pink climbing gear roped the rock	NEUTRAL
+A person is climbing a rock with a rope, which is pink	One man is climbing a cliff with a rope	NEUTRAL
+One white dog is staring at the black street	Two dogs of different breeds are looking at each other across a street	NEUTRAL
+A dog which is furry and black is in a back yard and is carrying a basket in its mouth	A dog next to a tree, which is probably a pine, is biting a bucket	NEUTRAL
+A few men in a competition are running outside	A few men in a competition are running indoors	CONTRADICTION
+A few men in a competition are running outside	A few men are running competitions outside	NEUTRAL
+The kid is happily sliding in the snow	A boy on a hill covered in snow is wearing a red jacket and a black hat and is sliding on his knees	NEUTRAL
+A woman, who is old, is near a white dog	A woman and a dog are sitting on a tree stump	NEUTRAL
+A group of people is equipped with protective gear	A group of people is equipped with gear used for protection	ENTAILMENT
+One white dog and one black one are running side by side on the grass	A dog, which has a black coat, and a white dog are running on the grass	ENTAILMENT
+Not a lot of people are in an ice skating park	An ice skating rink placed outdoors is full of people	NEUTRAL
+The girl in the blue and white uniform is cheering	The girl is cheering the man in the blue and white uniform	NEUTRAL
+A woman is being kissed by a man	There is no woman being kissed by a man	CONTRADICTION
+The girl in the red shirt is blowing a bubble 	The young girl is blowing a bubble that is huge	NEUTRAL
+Some corndogs are being eaten by two toddlers who are in a wagon, which is really small	Two toddlers are eating corndogs in a wagon, which is really small	ENTAILMENT
+A man is getting on a horse on a track laid in the wild	A horse is tossing the cowboy wearing pants of blue and red color	NEUTRAL
+An adult is in the amphitheater and is talking to a boy	There is no adult in the amphitheater talking to a boy	CONTRADICTION
+A talk about an adult and a boy is given in the amphitheater	An adult is in the amphitheater and is talking to a boy	NEUTRAL
+The snowboarder isn't leaping over white snow	A person who is practicing snowboarding jumps into the air	NEUTRAL
+A woman is riding a horse	A man is opening a small package that contains headphones	NEUTRAL
+A fish is hunting for a turtle in the sea	The turtle is following the fish	NEUTRAL
+A potato is being sliced by a woman	A woman is slicing a carrot	NEUTRAL
+A woman is combing her hair	A woman is arranging her hair	NEUTRAL
+A woman is combing her hair	There is no woman combing her hair	CONTRADICTION
+A man and a woman are hiking through a wooded area	A man and a woman are walking together through the woods	ENTAILMENT
+A man and a woman are walking together through the woods	A man and a woman are walking through a wooded area	ENTAILMENT
+A man is slicing a bun	A man is slicing a tomato	NEUTRAL
+A woman is dancing and singing alone	A woman is dancing and singing with other women	CONTRADICTION
+Some women are dancing and singing 	A woman is dancing and singing in the rain	NEUTRAL
+A woman is dancing and singing with other women	A woman is dancing and singing in the rain	NEUTRAL
+A band is playing on a stage	A band is playing onstage	ENTAILMENT
+A man is playing flute	A man is playing a game with a ball	NEUTRAL
+The woman is measuring the other woman	A woman is being measured by another woman	ENTAILMENT
+A person is standing near a motorcycle	A person is chopping an onion	NEUTRAL
+A man is screaming	A man is scared	NEUTRAL
+A sad man is crying	A man is screaming	NEUTRAL
+A woman is cutting shrimps	A man is chopping butter into a small container	NEUTRAL
+Men are sawing logs	Men are cutting wood	ENTAILMENT
+A man is talking on the radio	A man is spitting	NEUTRAL
+Three young men are running, jumping and kicking near a vending machine	There is no man running, jumping and kicking near a vending machine	CONTRADICTION
+Three men are jumping off a wall	Three young men are furiously running, jumping and kicking near a vending machine	NEUTRAL
+The man is not stirring the sauce for the chicken	The man is stirring the sauce for the chicken	CONTRADICTION
+A man is playing an electric guitar	A man is playing guitar	ENTAILMENT
+A man is playing a guitar	A man is strumming a guitar	ENTAILMENT
+Three boys in karate costumes aren't fighting	Three boys in karate costumes are fighting	CONTRADICTION
+Three men are practicing karate outdoors	Three boys in karate costumes are fighting	NEUTRAL
+A woman is planting some flowers	A woman is cutting broccoli	NEUTRAL
+A hole is being burrowed by the badger	A badger is shrewdly digging the earth	ENTAILMENT
+A snake is being fed a mouse by a man	No snake is being fed a mouse by a man	CONTRADICTION
+Some ingredients are being mixed in a bowl by a person	Some ingredients are being separated in a bowl by a person	NEUTRAL
+A boat is sailing peacefully over the water	The guitar is being played by the man	NEUTRAL
+The milk is being drunk by a cat	The cat is drinking some milk	ENTAILMENT
+A man is emptying a container made of plastic completely	A man is emptying a container made of plastic	ENTAILMENT
+A man is emptying a container made of plastic	A man is carelessly holding a frog	NEUTRAL
+A flute is being played in a lovely way by a girl	A flute is being played by a girl	ENTAILMENT
+The adult is playing the guitar loudly	A flute is being played by a man	NEUTRAL
+A man is playing the guitar loudly	A flute isn't being played by a man	NEUTRAL
+The girl, who is little, is carefully combing her hair into a pony tail	The girl, who is little, is combing her hair into a pony tail.	ENTAILMENT
+One man is sitting on the chair	The girl, who is little, is ruffling her hair	NEUTRAL
+The microphone in front of the talking parrot is being muted	The parrot is talking into the microphone	NEUTRAL
+The kittens on the trays are being eaten as food for an advertisement	The food on the trays is being eaten by the kittens	NEUTRAL
+The food on the trays is being eaten by the kittens	A few kittens are eating	ENTAILMENT
+One person is playing the guitar and singing	A person is playing a guitar and singing	ENTAILMENT
+The horse is being ridden by a man	A man is riding the horse	ENTAILMENT
+A man is dangerously throwing knives at a tree	Some dangerous men with knives are throwing a bike against a tree	NEUTRAL
+A lady is cutting up some meat precisely	Some meat is being cut into pieces by a woman	ENTAILMENT
+The man is denying an interview	The man is granting an interview	CONTRADICTION
+The man is granting an interview	A man's white car is being driven away	NEUTRAL
+A small boy is scolding a dog	A small boy is playing with a dog	NEUTRAL
+The picture of a camera set up is being taken by a man on the beach at the sunset	A man is taking pictures of a lake	NEUTRAL
+A woman is sewing with a machine	A woman is using a machine made for sewing	ENTAILMENT
+Someone is falling off a horse	The man is not knocked off of a horse	NEUTRAL
+A woman is tapping her fingers on a table	A woman is resting her fingers on a table	NEUTRAL
+A woman is tapping her fingers	A woman is resting her fingers on a table	NEUTRAL
+The cat is playing passionately with a watermelon	The cat is playing with a watermelon	ENTAILMENT
+The cat is playing passionately with a watermelon	A cat is playing with a watermelon	ENTAILMENT
+A person is burning some cameras with a blow torch	The tall person is setting fire to the cameras	NEUTRAL
+Some cameras are being burned by a person with a blow torch	The person is setting fire to the cameras	ENTAILMENT
+A person by some cameras is blowing on a burning torch	The person is setting fire to the cameras	NEUTRAL
+A person is cutting an onion into pieces	A person is slicing a carrot into pieces	NEUTRAL
+The man is not slicing the potato	The man is slicing a potato	CONTRADICTION
+Someone is cutting a tomato	The woman is holding a whole tomato	NEUTRAL
+The lady is slicing a tomato	There is no one cutting a tomato	CONTRADICTION
+The lady is slicing a tomato	Someone is cutting a tomato	ENTAILMENT
+A man is preparing some dish	An onion is being sliced with a knife by the woman	NEUTRAL
+One man is running down the road	A man is running	ENTAILMENT
+Some people are singing	A group of people is singing	ENTAILMENT
+The man is playing a guitar	A man is playing a trumpet	NEUTRAL
+A few people are floating on a raft	People are riding and paddling a raft	NEUTRAL
+People are riding and paddling a raft	Four people are floating on a raft	NEUTRAL
+There is no cat eating corn on the cob	A cat is eating some corn	NEUTRAL
+The person is slicing a vegetable	Nobody is slicing a tomato	NEUTRAL
+Someone is strumming the guitar	Someone is playing the guitar	ENTAILMENT
+Three women are dancing	A few women are dancing	ENTAILMENT
+A bull dog is being brushed by the monkey	The monkey is brushing a bull dog	ENTAILMENT
+The monkey is brushing a bull dog	A bull dog is brushing the monkey	NEUTRAL
+The lady isn't cracking an egg for the mixer	The lady is slicing up the meat	NEUTRAL
+A few ferrets are climbing out of the cage	Ferrets are climbing down from a shelf	NEUTRAL
+A man is hurriedly getting into a car in a garage	A man is getting into a car	ENTAILMENT
+A man is parking a car in a garage	A man is getting into a car	NEUTRAL
+The person is slicing a clove of garlic into pieces	The person is not slicing a clove of garlic into pieces	CONTRADICTION
+Noodles are being boiled in water by a woman	A woman is boiling noodles in water	ENTAILMENT
+There is no karate practitioner kicking at another man who is wearing protective boxing gloves	A karate practitioner is kicking at another man who is wearing protective boxing gloves	CONTRADICTION
+The man is kick boxing with a trainer	There is no karate practitioner kicking at another man who is wearing protective boxing gloves	NEUTRAL
+The man is kick boxing with a trainer	A karate practitioner is kicking at another man who is wearing protective boxing gloves	NEUTRAL
+A woman, who is seated, is singing a song and playing the guitar	A seated woman is singing a song and playing the guitar	ENTAILMENT
+A woman on a rock is lying on a blanket and reading a book	A woman is rocking over a blanket lying on someone reading a book	NEUTRAL
+The woman is not playing an electric guitar	A man is playing an acoustic guitar	NEUTRAL
+A man and woman are talking	A man and a woman are eating happily	NEUTRAL
+A person is pouring oil for cooking into a pot	A person is pouring cooking oil into a pot	ENTAILMENT
+A guinea pig, which is small, is gnawing and eating a piece of carrot on the floor	A small guinea pig is gnawing and eating a piece of carrot on the floor	ENTAILMENT
+A small guinea pig is gnawing and eating a piece of carrot on the floor	A guinea pig is devouring a carrot	ENTAILMENT
+A plane is landing	An animated airplane is taking off	NEUTRAL
+A woman is taking a mixture out of a bowl	A woman is preparing an egg in a skillet	NEUTRAL
+The lady is penciling on eyeshadow	The woman is penciling on eyeshadow	ENTAILMENT
+A little girl is playing a grand piano on stage	A girl is practicing the piano	NEUTRAL
+A woman is playing a flute	The woman is not playing the flute	CONTRADICTION
+The man is lifting barbells	The man is lifting weights	ENTAILMENT
+A woman is putting on makeup	There is no woman putting on makeup	CONTRADICTION
+The woman is cutting a carrot	An onion is being sliced by a woman	NEUTRAL
+Two men are fighting in a cattle pen	Two men are outside a cattle pen	NEUTRAL
+A big green ball is missing a potato	A big green ball is knocking a potato	NEUTRAL
+A large green ball is hitting a potato	A large green colored ball is hitting a potato	ENTAILMENT
+A large green ball is missing a potato	A large green ball is hitting a potato	NEUTRAL
+A large green ball is hitting a potato	A big green ball is missing a potato	CONTRADICTION
+A man is playing a guitar	A man is laying down a guitar	NEUTRAL
+A woman is playing an electric guitar	A man is laying down a guitar	NEUTRAL
+The puppy is not playing with a plastic container	The puppy is playing with a plastic container	CONTRADICTION
+A woman is driving a car and is talking to the man who is seated beside her	There is no woman driving a car and talking to the man seated beside her	CONTRADICTION
+A man is flooring a sitting guitar player	A man is sitting on the floor in a room and strumming a guitar	NEUTRAL
+A woman is using a pencil for eyes and is applying eye liner to her eyelid	A woman is applying cosmetics to her eyelid	ENTAILMENT
+There is no woman using an eye pencil and applying eye liner to her eyelid	A woman is applying cosmetics to her eyelid	CONTRADICTION
+A monkey is kicking at a person's glove	The monkey is practicing martial arts	NEUTRAL
+A kid is throwing away an instrument	A young boy is playing a wind instrument	NEUTRAL
+A man is trekking in the woods	The man is not hiking in the woods	NEUTRAL
+There is no boy walking across a bridge	A boy is walking across a bridge	CONTRADICTION
+A woman is placing two eggs into a pot of water	A woman is putting two eggs into a pot of water	ENTAILMENT
+A man is playing the guitar	Nobody is playing the guitar	CONTRADICTION
+A child is running in and out of the waves of the ocean	A child is running in and out of the ocean waves	ENTAILMENT
+A woman is putting away carrots	A woman is coating a pork chop	NEUTRAL
+A woman is grating carrots	A cook is coating a pork chop	NEUTRAL
+The woman is chopping some bread and fried pork	A woman is cooking a breaded pork chop	NEUTRAL
+There is no man standing on a roof top and playing a violin	A man is standing on a roof top and playing a violin	CONTRADICTION
+A woman is cleaning a shrimp	The woman is cleaning a shrimp	ENTAILMENT
+A woman is riding a water scooter	A woman is riding a scooter for water	ENTAILMENT
+A panda bear is eating some bamboo	Some bamboo is being eaten by a panda bear	ENTAILMENT
+Someone is beating an egg	The woman isn't stirring eggs in a bowl	NEUTRAL
+A woman is deboning a fish	A big fish is catching a man	NEUTRAL
+A tray is being buttered by a person	A person is buttering a tray	ENTAILMENT
+The man is chopping a tree trunk with an axe	A man is chopping a log with an axe	NEUTRAL
+The cat is looking out the window at the table on the perch	The cat perched on the table is looking out the window	NEUTRAL
+A dog is licking a baby	The dog is licking the baby	ENTAILMENT
+A woman is putting away the garlic	A woman is chopping up garlic	NEUTRAL
+The man is not dancing	A woman is dancing	NEUTRAL
+Someone is cooking okra in a pan	Okra is being cooked in a pan	ENTAILMENT
+A man is playing the drum	A man is practicing the drum	ENTAILMENT
+One man is doing floor exercises	A man is doing exercises	ENTAILMENT
+A woman is putting meat in a pan	There is no woman putting meat in a pan	CONTRADICTION
+Someone is dropping the meat into a pan	The meat is being dropped into a pan	ENTAILMENT
+A boy is filling a pitcher with water	A pitcher is being filled with water by a boy	ENTAILMENT
+A woman is collecting the water from a tap in a mug	A boy is filling a pitcher with water	NEUTRAL
+It is raining on a walking man	A man is walking in the rain	ENTAILMENT
+Racers are running down a track	There are no racers running down a track	CONTRADICTION
+A toy train is striking a toy car	A toy train is missing a toy car	CONTRADICTION
+The person is slicing onions	Onions are being sliced by the person	ENTAILMENT
+Swimmers are racing in a lake	Some racers are swimming in a lake	ENTAILMENT
+A talented man is playing the guitar	A woman is playing a guitar	NEUTRAL
+A person is scrubbing a zucchini	The person is scrubbing a zucchini	ENTAILMENT
+A woman is slicing a pepper which is green	A woman is slicing a green pepper	ENTAILMENT
+A man is stopping in the middle of a road	A man is walking down a road	NEUTRAL
+A man from the wilderness is on a walking path	A man is walking down a road	NEUTRAL
+The man is walking along a path through the wilderness	A man is lazily walking down a road	NEUTRAL
+A man is dancing on the ceiling of a room	The man is dancing upside-down on the ceiling	ENTAILMENT
+There is no man exercising	A man is exercising	CONTRADICTION
+The man is singing and playing the guitar	The guitar is being played by a man	ENTAILMENT
+A man is packing the guitar	The man is singing and playing the guitar	NEUTRAL
+Boys are not dancing in front of some people	Boys are dancing in front of some people	CONTRADICTION
+A boy is looking at a calendar	There is no boy checking a calendar	CONTRADICTION
+A woman is peeling a potato	A woman is refrigerating a potato	NEUTRAL
+There is no man singing and playing a guitar	A boy is playing a piano	NEUTRAL
+A man is recklessly climbing a rope	A man is climbing a rope	ENTAILMENT
+A man is climbing a rope	The man is climbing up a rope	ENTAILMENT
+A man is climbing a rope	A man is climbing up a rope	ENTAILMENT
+The lady is picking up the kangaroo	The woman is picking up the kangaroo	ENTAILMENT
+A man is breaking tiles with his hands	There is no man breaking wooden boards with his hand	NEUTRAL
+A dog is running breathlessly on the road	A dog is running on the road	ENTAILMENT
+A man is running on the road	A dog is running breathlessly on the road	NEUTRAL
+The man is hurling knives at a tree	The man is throwing knives at a tree	ENTAILMENT
+The man is removing knives from a tree	The man is throwing knives at a tree	NEUTRAL
+One man is riding a horse	A man is riding a horse	ENTAILMENT
+There is no man drawing a picture	A man is drawing a picture	CONTRADICTION
+There is no man eating food	A man is eating a pizza	CONTRADICTION
+A dog is bouncing on a trampoline	A dog is jumping on a trampoline	ENTAILMENT
+Several boys are jumping on a trampoline	A man is doing back flips on a trampoline	NEUTRAL
+A man is playing a wooden flute	There is no man playing a wooden flute	CONTRADICTION
+There is no man playing the piano	A man is playing the piano	CONTRADICTION
+The man is erasing the drawing on the board	The woman is erasing the drawing on the board	NEUTRAL
+There is no dog playing with a toy	A dog is eating a doll	CONTRADICTION
+A dog is eating a doll	A dog is playing with a toy	NEUTRAL
+A man is dancing	A man is praying fervently	NEUTRAL
+The woman is slicing cooked octopus	A woman is chopping up an octopus	ENTAILMENT
+A man is drawing	There is no man drawing	CONTRADICTION
+The man is drawing	There is no man drawing	CONTRADICTION
+A man is eating a banana	A man is eating a fruit	ENTAILMENT
+A man is cutting a note	A man is cutting a paper	ENTAILMENT
+A man is playing a guitar	There is no one playing a piano	NEUTRAL
+Two men in a race are flipping the tires of a tractor	Two men are competing in a tire rolling race	NEUTRAL
+The men are talking	Some old women are talking	NEUTRAL
+A man is punching a soccer ball	A man is mixing the content of a bowl	NEUTRAL
+The doctors are healing a man	The doctor is helping the patient	ENTAILMENT
+There is no man playing a guitar	A man is playing a guitar	CONTRADICTION
+There is no man driving a car	A man is driving a car	CONTRADICTION
+A keyboard is being played by a man	A man is playing a harp	NEUTRAL
+A man is cutting a thick rope with a sword	There is no man cutting a rope with a sword	CONTRADICTION
+A woman is slicing a potato	A woman is cutting a potato	ENTAILMENT
+A group of men is playing soccer on the beach	A group of boys is playing soccer on the beach	NEUTRAL
+A man is fitting a silencer to a pistol	A man is applying a silencer to a gun	ENTAILMENT
+The girl is sitting on the couch and is crocheting	There is no girl playing the violin on a beach	NEUTRAL
+A man is cooking a snake	There is no man cooking a snake	CONTRADICTION
+There is no boy playing guitar	A boy is playing guitar	CONTRADICTION
+There is no monkey teasing a dog at the zoo	A monkey is teasing a dog at the zoo	CONTRADICTION
+A monkey is pulling a dog's tail	A monkey is teasing a dog at the zoo	NEUTRAL
+There is no person cutting some ginger	A person is cutting some ginger	CONTRADICTION
+A person is cutting some ginger	A person is slicing an onion	NEUTRAL
+A man is slicing a potato into pieces	A man is not cutting a potato	CONTRADICTION
+A man is opening a box with a knife	There is no man opening a box with a knife	CONTRADICTION
+Some instruments are being played by a band	A band is playing some instruments	ENTAILMENT
+A band is not playing some instruments	A band is playing some instruments	CONTRADICTION
+A person is dancing	A woman is exercising	NEUTRAL
+A man is doing pull-ups	The man is doing exercises in a gym	NEUTRAL
+A man is singing and playing a guitar	A man is singing and playing a musical instrument	ENTAILMENT
+Recruits are talking to an officer	An officer is talking to the recruits	NEUTRAL
+Garlic is being chopped by a woman	A woman is chopping garlic	ENTAILMENT
+A woman is slicing a fish	There is no woman slicing a fish	CONTRADICTION
+A woman is riding a horse	A horse is being ridden by a woman	ENTAILMENT
+A big cat is opening a plastic drawer with its paws and is jumping inside	A cat is opening a drawer and jumping inside	ENTAILMENT
+The man is talking on the telephone	The man is speaking on the telephone	ENTAILMENT
+A man is cutting onions	A woman is cutting an onion	NEUTRAL
+A man is opening a door	There is no man opening a door	CONTRADICTION
+A door is being opened by a man	A man is cutting an onion	NEUTRAL
+A woman is playing the violin	There is no man playing the piano	NEUTRAL
+A chef is preparing some food	A chef is preparing a meal	ENTAILMENT
+Two sumo ringers are fighting	Two sumo wrestlers are fighting	ENTAILMENT
+Two sumo ringers are fighting	A man is riding a water toy in the water	NEUTRAL
+A man is buttering a piece of bread	A woman is buttering a piece of bread	NEUTRAL
+The woman is putting pasta into a dish	Pasta is being put into a dish by a woman	ENTAILMENT
+A woman is pulling some sticky goo out of a bowl	The woman is not putting pasta into a dish	NEUTRAL
+There is no girl playing a flute	A girl is playing a flute	CONTRADICTION
+A large flute is being played by a man	A man is playing a flute	ENTAILMENT
+A man is playing a large flute	There is no man playing a flute	CONTRADICTION
+An octopus is being sliced by a woman	A woman is slicing an octopus	ENTAILMENT
+A man is playing a flute	A man is not playing a flute	CONTRADICTION
+A woman is playing the flute	A man is playing a flute	NEUTRAL
+A woman is cutting a lemon	A woman is cutting fruit	ENTAILMENT
+A group of people are dancing in a show	A group of people are marching	NEUTRAL
+A cupcake is being eaten by a girl	A girl is eating a cupcake	ENTAILMENT
+A person is eating in a restaurant	A person is making a bed	NEUTRAL
+The cook is sprinkling cheese on the pizza	The man is sprinkling cheese on the pizza	NEUTRAL
+A man is reloading a shotgun	A man is firing a shotgun	NEUTRAL
+A tiger cub is playing with a ball	A baby is playing with a doll	NEUTRAL
+A baby is playing with a toy	A baby tiger is playing with a ball	NEUTRAL
+A person is peeling a potato	A potato is being peeled by a person	ENTAILMENT
+A man is rowing a canoe	A man is rowing a boat	ENTAILMENT
+A man and a woman are driving down the street in a jeep	A man and a woman are driving down the road in an open-air vehicle	NEUTRAL
+A woman is pouring ingredients into a bowl	The chef is seasoning the oil	NEUTRAL
+A horse is being ridden by a person	A person is riding a horse	ENTAILMENT
+A horse is being ridden by a person	A woman is slicing potatoes	NEUTRAL
+The man is not doing exercises	The man is doing exercises	CONTRADICTION
+The man is not doing exercises	Two men are fighting	NEUTRAL
+Vegetables are being put into a pot by a man	Someone is pouring ingredients into a pot	ENTAILMENT
+A dog is leaving a ball in the dirt	A dog is chasing a ball through dirt	NEUTRAL
+There is no brown dog standing in the water	A dog with golden fur is in the water	NEUTRAL
+A young girl in a blue shirt is walking on the sidewalk and holding up a pink sign	A young girl by a pink sign is holding up a blue shirt and is walking on the sidewalk	NEUTRAL
+The small child is walking through the water and is being guided by another person	A young child is splashing in the water	NEUTRAL
+A man and a woman are in a room painted beige, wearing dark colored shirts and a monitor is in the background	A man and a woman are in a beige room, wearing dark colored shirts and a monitor is in the background	ENTAILMENT
+A person wearing jeans is sitting happily on the top of a horse saddle	A woman in jeans is sitting on the saddle of a horse	NEUTRAL
+A brown and white dog is holding a baseball in its mouth	A black and white dog is dropping a baseball from its mouth	NEUTRAL
+A young boy wearing a red swimsuit is jumping into a blue kiddies pool	A boy wearing red shorts is jumping into a paddling pool	NEUTRAL
+Two people are standing in the ocean and watching the sunset	Nobody is standing in the ocean and watching the sunset	CONTRADICTION
+A race car driver is standing up and pointing his hand at the sky	A race car driver is sitting down and is motionless	NEUTRAL
+A race car driver is standing up and is fiercely pointing his hand at the sky	The person in the blue jacket is wearing a colorful helmet	NEUTRAL
+A bicyclist is holding a bike over his head in a group of people	A cyclist is being held over the heads of a group of people with the bike	NEUTRAL
+A man is sitting on a boat in font of the sunset, near a flag	A man is standing on a boat in front of the sunset near a flag	NEUTRAL
+A man is standing on a boat in front of the sunset near a flag	A man is on a boat in front of the sunset	ENTAILMENT
+People at a drag race are running away from the flames that are coming out of the cars	The crowd is watching two racing cars that are leaving the starting line	NEUTRAL
+Two dogs are playing together on the grass	Two dogs are resting together in the grass	NEUTRAL
+A dog, which is black, is running in the grass	A black dog is running in the grass	ENTAILMENT
+A black dog is running in the grass and its tongue is hanging out	A black dog is running in the grass	ENTAILMENT
+A yellow dog is running on white snow on a very sunny day	A yellow dog is running on white snow on a sunny day	ENTAILMENT
+A girl is wearing jeans and a pink shirt and is running	A little boy in a pink shirt is running under a tree in the desert	NEUTRAL
+A white dog is wearing a Christmas reindeer headband and is playing with a brown dog in the grass	The white reindeer wearing dog ears is near a brown reindeer	NEUTRAL
+The woman in a red costume is leaning against a brick wall and playing an instrument	The woman in a red costume is not leaning against a brick wall and is not playing an instrument	CONTRADICTION
+A waterfall is flowing into a shallow pool	The people are walking on the road beside a beautiful waterfall	NEUTRAL
+A dog is scattering a pack of white sheep on a dusty farm	A dog is herding a pack of white sheep on a dusty farm	NEUTRAL
+A little boy is wearing a yellow tank top and is laughing	A laughing boy is in a yellow tank and is wearing a top	NEUTRAL
+The person is not standing on white ice	A person is standing in a vast field of glacial ice	NEUTRAL
+The ice hockey goalkeeper is wearing a yellow jersey and is defending the goal	There is no hockey player in a yellow jersey guarding the goal	CONTRADICTION
+A woman is wearing a blue helmet and is riding a bicycle in a parking lot	A woman is parking a blue bicycle and is wearing lots of riding helmets	NEUTRAL
+A young girl is standing on one leg	A young female is dancing	NEUTRAL
+A young girl is standing on one leg	A young girl is dancing	NEUTRAL
+A bee is clinging to a yellow flower	There is no small bee landing on a bunch of yellow flowers	NEUTRAL
+There is no white dog with beige spots running through a field	A tan dog is running through the brush	NEUTRAL
+A hurdle is being leapt by a horse that has a rider on its back	A horse and its rider are leaping over a barrier	ENTAILMENT
+Two teenage girls are wearing fancy dresses at an event	Two girls in their teens are wearing fancy dresses at an event	ENTAILMENT
+A classroom full of students is looking attentively in the same direction inside a bamboo structure	A group of students in uniforms is listening attentively at the front of the class	NEUTRAL
+A child, who is small, is outdoors climbing steps outdoors in an area full of grass	A small child is outdoors climbing steps in a grassy area	ENTAILMENT
+A little child in a pink sweater is climbing a concrete staircase	A small child is outdoors climbing steps in a grassy area	NEUTRAL
+A kid in orange is playing outside with a snowball	A snow ball is being made by a child	NEUTRAL
+The people are not sitting on a bench in front of a restaurant	Three people are sitting on a bench under some palm trees	NEUTRAL
+A large brown dog and a small grey dog are standing on a rocky surface	A big brown dog and a small grey dog are standing on a rocky surface	ENTAILMENT
+Three boys are resting on rocks along a river	Three boys are walking on rocks along a river	NEUTRAL
+There is no man dressed in black wearing an elaborate black mask	A man dressed in black is wearing an elaborate black mask	CONTRADICTION
+Two children, who are small, are playing with a toy car in the street	A father is pushing his daughter on a go-kart and another girl is watching	NEUTRAL
+A golden dog is running through a field of tall grass	There is no brown dog running through tall green grass	NEUTRAL
+The woman wearing the blue and white uniform with a white and blue hat is keeping her mouth open and is near others who are dressed in the same fashion	A woman is wearing a blue shirt with a white vest and a white cap and is talking and marching	NEUTRAL
+The snowboarder is doing a flip over a mound of snow	Somebody is jumping in the air on a board	ENTAILMENT
+A blonde boy in green is sitting on a swing	There is no little girl with blond hair smiling and sitting on a swing	NEUTRAL
+A white man is staging a hat and a playing guitar	A man in a white hat is playing guitar on stage	NEUTRAL
+There is no man in a red uniform making a jump in a dirt bike race	A man in a red uniform is making a jump in a dirt bike race	CONTRADICTION
+Rugby players are not tackling each other	A soccer player is being tackled by his opponent	NEUTRAL
+A white dog is standing on fallen leaves	A white dog is lying on fallen leaves	NEUTRAL
+A child in clothing which is light colored is standing with his arms extended outward	A child in light colored clothing is standing with his arms extended outward	ENTAILMENT
+The boy and girl are not playing on a playground	The boy and girl are playing on the outdoor gym	NEUTRAL
+The motocross rider is standing naked	A biker with a blue jacket, black pants and a white helmet is driving on dirt and people are watching	NEUTRAL
+The rider on the blue and black motocross bike is not wearing the pants	A biker with a blue jacket, black pants and a white helmet is driving on dirt and people are watching	NEUTRAL
+A trick is being performed by a rollerblader on a ramp	A rollerblader is performing a trick on a ramp	ENTAILMENT
+A group of football players is standing still in the field	The crowd is watching a football game	NEUTRAL
+The group of people is standing together and looking at the camera	A group of people is standing together and looking at the camera	ENTAILMENT
+A brown dog is running across the yard with a toy in its mouth	There is no brown dog running across the yard with a toy in its mouth	CONTRADICTION
+There is no young boy jumping in the air with his knees bent and arms spread	A person with a green shirt is jumping high over the grass	NEUTRAL
+A cigarette is being smoked by the man in the straw hat	A man is wearing a straw hat and smoking a cigarette	ENTAILMENT
+A man is wearing a blue shirt which has long sleeves and jeans and is riding a unicycle down a street	A man is wearing a blue checkered shirt and riding a unicycle in the street	NEUTRAL
+Small children are climbing a statue in a park	Two children are playing on a statue	NEUTRAL
+A tower is being looked at by a blonde lady	A woman is looking at the view of a city	NEUTRAL
+A man is standing on the top of the rocks with clouds behind them	Somebody is standing on a mountain top	NEUTRAL
+A child is smiling at the camera and swimming underwater	A child is swimming underwater in a pool	NEUTRAL
+An American footballer is wearing the red and white strip	A football player is wearing black armbands	NEUTRAL
+The little girl is swinging and the woman is standing behind her	The girl, who is little, is swinging and the woman is standing behind	ENTAILMENT
+A small child is showing excitement on a swing set at the park	The girl, who is little, is swinging and the woman is standing behind	NEUTRAL
+A surfer is riding the wave	A man is falling off a surfboard in the water	NEUTRAL
+The group of people is sitting in a dim room	The group of people is sitting in a room which is dim	ENTAILMENT
+A man and two women in a dark room are sitting at a table with candles	The group of people is sitting in a dim room	ENTAILMENT
+A man and two women in a darkened room are sitting at a table with candles	The group of dim people is sitting in a room	NEUTRAL
+A man in a white shirt and sunglasses and a man in a black shirt and sunglasses are sitting at a table with four bottles of beer	A man in a white shirt and sunglasses and a man in a black shirt and sunglasses are sitting at a table with four beer bottles	ENTAILMENT
+The woman is not wearing a red jacket and is not holding a glass in front of the man in a white t-shirt	A person is wearing a red jacket and holding a beer	NEUTRAL
+A child is watching someone playing outdoors and is spouting water over the rest of his family 	A boy is holding a hose next to a man and another boy is watching	NEUTRAL
+There is no football player in a purple jersey running with the ball for a touchdown	A football player is running past an official carrying a football	NEUTRAL
+A football player is carrying an official past a rolling football	A football player in a purple jersey is running with the ball for a touchdown	NEUTRAL
+A young girl in a blue leotard is jumping in the air	A young girl in a leotard colored in blue is jumping in the air	ENTAILMENT
+The young girl in blue is jumping in the air	A young girl in blue is jumping in the air	ENTAILMENT
+The bunch of men are playing rugby on a field full of mud	Some men are playing rugby	ENTAILMENT
+A person is looking at a bike designed for motocross that is lying on its side and another is racing by	The bike rider is looking at an accident of another bike rider	NEUTRAL
+There is no little boy wearing a green soccer strip and running on the grass	A little boy is wearing a green soccer strip and is running on the grass	CONTRADICTION
+The man at the beach is not doing a handstand on the wet sand at the edge of the water	The man is doing a handstand on the wet sand at the edge of the water at the beach	CONTRADICTION
+A young mother is playing with her boy in the park	A young boy is playing in the park with his mother	ENTAILMENT
+A man is spraying a super soaker into the mouth of a dog	There is no man spraying a super soaker into the mouth of a dog	CONTRADICTION
+There is no man spraying a super soaker into the mouth of a dog	A man is squirting water into the mouth of a white dog with a squirt gun	NEUTRAL
+A boy under an umbrella is being held by his father who is wearing a blue coat	A boy, who is wearing a blue coat, is being held by his father under an umbrella 	NEUTRAL
+A boy under an umbrella is being held by his father who is wearing a blue coat	A child is experiencing a new world	NEUTRAL
+A dog is playing alone on a beach covered by snow	A dog is walking along a snowdrift	NEUTRAL
+A surfer is riding a big wave across dark green water	The surfer is riding a small wave	CONTRADICTION
+A tennis player is lunging to the left	A tennis player is jumping to the left	ENTAILMENT
+Two dogs are looking at something that is splashing in the water	Some dogs are not playing in a stream	NEUTRAL
+A man in a blue cowboy hat is riding a white horse	A man in blue is riding a horse on a dirt road	NEUTRAL
+Two white dogs are playing with a brown dog and a tennis ball	Two white dogs are playing with a brown dog and a ball	ENTAILMENT
+A person in a pink jacket is running onto the field	Four athletes are with a woman in a crowded stadium	NEUTRAL
+A woman dressed in elegant clothing is inside a crowd of people and is looking up	A woman dressed in elegant clothing is inside a crowd of people and is looking down	NEUTRAL
+An Asian woman is holding a fur scarf	An elegant woman is inside a crowd of people and is looking down	NEUTRAL
+A kid in a white t-shirt is splashing in shallow water	A boy is running through the water at the beach	NEUTRAL
+A girl is running through the water at the beach	A boy in a white t-shirt is splashing in shallow water	NEUTRAL
+A boy in a white t-shirt is splashing in shallow water	A boy is running through the water at the beach	NEUTRAL
+The kids are not wearing suits and water is splashing around	Children in swimming suits are playing in the water	NEUTRAL
+A young girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on her head	A little girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on the head	ENTAILMENT
+A female cheerleader is sitting on the knee of a male cheerleader	Some cheerleaders are relaxing	NEUTRAL
+The girl has red hair and eyebrows, several piercings in a ear and a drawing on the back	The girl has red hair and eyebrows, several piercings in a ear and a tattoo on the back	ENTAILMENT
+The girl has red hair and eyebrows, several piercings in a ear and no tattoo on the back	A girl with red hair and red eyebrows is in midspeech	NEUTRAL
+Two people are driving a jeep and a lady is sitting on the top of it	Two people are driving a jeep and a girl is sitting on the top of it	ENTAILMENT
+The adults and children are not gathered near an outdoor seating arrangement	The adults and children are being gathered near an outdoor seating arrangement	CONTRADICTION
+A girl has colored patches on the cheeks	A girl is standing in a group and is wearing a black shirt and pink beads	NEUTRAL
+Two dogs are running through water	Two dogs are running through high grass	NEUTRAL
+Some people and vehicles are on a crowded street	Some people and vehicles are on a almost empty street	CONTRADICTION
+A young girl with painted face is standing next to some other children	Children are being dressed in costumes and playing a game	NEUTRAL
+There is no bmx biker jumping dirt ramps in front of a body of water	Two bmx bikers are jumping dirt ramps in front of a body of water	CONTRADICTION
+A man is doing a trick on a skateboard	A person is doing a trick on a skateboard	ENTAILMENT
+A man in a motocross uniform is wearing a helmet and rides a red motorcycle	A person in a motocross uniform is wearing a helmet and rides a red motorcycle	ENTAILMENT
+A boy in a striped shirt is jumping behind a water fountain	A boy in a striped shirt is jumping in front of a water fountain	NEUTRAL
+Two large dogs, a light colored one and a dark one, are sleeping on a snowy terrain	Two dogs are leaping through snowy grass and rocks	NEUTRAL
+A girl in blue is sliding down a green slide	The young girl in blue is enjoying a slide	ENTAILMENT
+A white man is walking next to a building in a big city	A black man is walking next to a building in a big city	NEUTRAL
+A man with no hat is sitting on the ground	A man with a backwards hat is sitting on the ground	NEUTRAL
+A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of an old man with grey hair	A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a man with grey hair	ENTAILMENT
+The man is going into the water	The person is going into the sea	NEUTRAL
+Two people are sitting on a park bench on a sunny day	Two people are sitting on a park bench on a hot day	NEUTRAL
+The child is splashing water in a big red pool	A toddler is making a splash inside a blue paddling pool	NEUTRAL
+A grey silky dog is lying in the grass and a brown dog is looking on	The brown dog is spotting a black dog lying in the dry grass	NEUTRAL
+A black dog and a small white and black dog are looking up at a kitchen countertop	A large dog and a small dog are standing next to the kitchen counter and are investigating	ENTAILMENT
+A man is not rock climbing and a city and a bay are in the background	A man is rock climbing and a city and a bay are in the background	CONTRADICTION
+A man is rock climbing, pausing and calculating the route	A man is rock climbing, stopping and calculating the route	ENTAILMENT
+No group of people is gathering at a stand at the fair	The people are standing at a carnival	NEUTRAL
+A group of rollerbladers is lining up on the street	A group of rollerbladers is lining up on the road	ENTAILMENT
+A skateboarder is jumping off a ramp	A skateboarder is making a jump off a ramp	ENTAILMENT
+A black and orange bird is standing in the grass	The black bird with a yellow beak is standing in the green grass	NEUTRAL
+Two white dogs are quickly running together	Two white dogs are running together	ENTAILMENT
+A group of people are standing around a sound mixing table	Some people is looking at sound equipment	ENTAILMENT
+A girl is skipping rope on a sidewalk	A girl is skipping rope on near a street	ENTAILMENT
+A girl is jumping rope on a sidewalk near a parking garage	A girl is skipping rope on near a street	NEUTRAL
+A dog is swimming in a body of water	An animal is swimming in a body of water	ENTAILMENT
+A woman is leaning on the ledge of a balcony	A man is leaning on the ledge of a balcony	NEUTRAL
+A small white dog is running across a lawn	A big white dog is running across a lawn	NEUTRAL
+The dog is on a leash and is walking near the water	A black dog on a leash is walking in the water	NEUTRAL
+One boy in orange shorts is standing on a rock cliff over the water and the other boy in black shorts is jumping of it into the water	Two males are standing on a cliff edge and one is jumping into the water	NEUTRAL
+A small group of people are standing and two are sitting on the sofa	A group of five young adults are lounging indoors	NEUTRAL
+A young girl in a bikini is jumping on the beach	A young girl in swimming suite is jumping on the beach	ENTAILMENT
+A blond child is going down a slide and throwing up his arms	A child with dark hair is going down a slide and throwing up his arms	CONTRADICTION
+Two dogs are playing in a forest	A brown dog is running after a black dog on a rocky shore	NEUTRAL
+A white dog is approaching a golden dog on pebbly beach	Two dogs are playing on a rocky beach	NEUTRAL
+Two young girls are wearing hats and sticking their colored tongues out	Two kids are sticking out blue and green colored tongues	NEUTRAL
+Two boys are laying in the ocean close to the beach	Two boys are laying in the water close to the beach	ENTAILMENT
+A large man is sitting in a military accessories store	A veteran is showing different things from a war to some people	NEUTRAL
+A dog with a blue collar is playing with the ball outside	A grey dog is bouncing a soccer ball on its head in a grass field	NEUTRAL
+A young woman with Indian clothing and henna on her hand is going through paperwork	A woman is wearing a colorful shirt and a lot of jewelry	NEUTRAL
+A man in a jersey which is black is standing in a gym	A man in a black jersey is standing in a gym	ENTAILMENT
+A man in a black jersey is standing in a gym	A man is standing in a gym and is wearing a jersey	ENTAILMENT
+A little brown and white dog is running on the sidewalk	A little brown and white dog is running on the road	NEUTRAL
+A dog is turning on the grass and pursuing a flying tennis ball	A yellow dog is chasing a ball	NEUTRAL
+A woman in blue jeans is standing in front of a group of children beside a stone built house	No lady is standing on the street and is surrounded by school children	NEUTRAL
+A lady is standing on the street and is surrounded by school children	A man in blue jeans is standing in front of a group of children beside a stone built house	NEUTRAL
+A guy is leaping into the air in wood	A guy is leaping into the air in a wooded area	NEUTRAL
+A dog is running with a ball	The black dog is carrying a blue and white ball in its mouth	NEUTRAL
+The man in blue is posing for a picture next to a vehicle	A man is standing at the wheel of a classic American car that has its door and trunk open	NEUTRAL
+A man is skiing down a hill and jumping a red obstacle	A man is snowboarding down a railing in the snow	NEUTRAL
+The skateboarder is jumping in the air	A skateboarder is jumping in the air	ENTAILMENT
+A snowboarder is grinding down a long concrete rail	A person is doing acrobatics on a snowboard	NEUTRAL
+A group of people is walking down the street and a person in a green hat is on the phone	Four people are walking along a city sidewalk and the one in the green hat is phoning someone	NEUTRAL
+A surfer is surfing a big wave	A surfer is surfing a huge wave	ENTAILMENT
+A person with a red hooded jacket and a black backpack is walking near a rocky wall	A man in a red jacket and khaki pants is walking through an European state	NEUTRAL
+The players is maneuvering for the soccer ball	A man in green is kicking a soccer ball and a man in purple and white is rising up	NEUTRAL
+The man dressed in leather chaps and a purple shirt is standing in front of someone lookers	A man is wearing a purple shirt and black leather chaps and is posing for the camera	NEUTRAL
+A dog is in a sandy area with the sand that is being stirred up into the air and several plants are in the background	A dog is in the sand that is blowing in the air	NEUTRAL
+No dog is in the sand that is blowing in the wind	A dog is in a sandy area with the sand that is being stirred up into the air and several plants are in the background	CONTRADICTION
+The black and white dog is running in a green yard	A black and white dog is running outdoors	ENTAILMENT
+A dog is jumping into the air in the country	A dog is jumping in the shade of some trees	NEUTRAL
+A dog is jumping in the shade of some trees	A cat is jumping high into the air in the country	NEUTRAL
+A cluster of four brown dogs are playing in a field of brown grass	Four dogs are not playing in a grassy area	CONTRADICTION
+A big brown and white spotted dog is lying on a jacket on the street	The dog is having a nap in the park	NEUTRAL
+A man on a yellow sport bike is doing a wheelie and a friend on a black bike is catching up	The rider dressed in orange is driving a motorcycle on one wheel	NEUTRAL
+An elder man is sitting on a bench and is wearing a gray jacket and black pants	An elderly man is sitting on a bench	ENTAILMENT
+The woman is holding the paintbrush next to the artist's easel 	The lady is holding the paintbrush next to the artist's easel 	ENTAILMENT
+A man is wearing a blue shirt and walking barefoot on a tennis court	A woman is wearing a blue shirt and walking barefoot on a tennis court	NEUTRAL
+The young girl is playing on the edge of a fountain and an older woman is watching her	A young girl is playing on the edge of a fountain and an older woman is watching her	ENTAILMENT
+A young girl is playing on the edge of a fountain and an older woman is watching her	A little girl and a woman wearing a yellow shirt are getting splashed by a city fountain	NEUTRAL
+A black and white dog with a large branch is standing in the field	A black and white dog with a large branch is running in the field	CONTRADICTION
+A black and white dog is carrying a huge stick on the green grass	A black and white dog with a large branch is running in the field	ENTAILMENT
+A boy is running through the sand	A boy wearing a striped shirt is running barefoot on the sandy hill	NEUTRAL
+Two young boys are looking up at the camera and one is sticking out his tongue	The little boy is sticking his tongue out for the camera and another boy is looking on	NEUTRAL
+A little boy is sticking his tongue out for the camera and another boy is looking on	Two kids are looking up at the camera and one is sticking out his tongue	ENTAILMENT
+A laughing child is holding a water gun and getting sprayed with water	A person in a blue jacket is jumping onto a tall cement wall	NEUTRAL
+A person is slicing some mushrooms	The elephant is being ridden by the woman	NEUTRAL
+Two small children are playing with a toy car in the street	A dog is running through a field and is chasing a toy	NEUTRAL
+A man is playing an electric guitar	A group of people is holding drinks and pointing at the camera	NEUTRAL
+A girl in gold and purple is holding a rainbow afghan	A man is squatting in brush and taking a photo	NEUTRAL
+Two people are riding a bike	A practicing jumper is tossing a person's snowboard into the air	NEUTRAL
+Some instruments are being played by a band	A young, topless woman is covered in paint	NEUTRAL
+A family is buying something at the vending machine	A man in a suit is standing at a microphone and singing	NEUTRAL
+A bike is being ridden over a monkey	A person is riding a dirt bike down a dirt hill	NEUTRAL
+A biker is riding away from a fence	A man is dancing on the road	NEUTRAL
+A woman is playing an electric guitar	A kid is playing guitar	NEUTRAL
+The animal is grazing on the grass	The cop is sitting on a police bike	NEUTRAL
+The dog is snapping at some droplets of water	A girl in a band is playing an instrument	NEUTRAL
+A young man is pushing a motocross bike down a dirt hill	A dog is swimming after a tennis ball	NEUTRAL
