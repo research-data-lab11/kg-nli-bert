@@ -29,7 +29,7 @@ mkdir name_workspace
 cd name_workspace
 
 # Clone this repository
-git clone https://github.com/efiyianoulari-code/kg-nli-bert.git
+git clone https://github.com/research-data-lab11/kg-nli-bert.git
 
 # Move into the cloned project repository
 cd kg-nli-bert
