@@ -36,19 +36,19 @@ def extract_all_triplets():
 
          
             for meronym in synset.part_meronyms():
-                triplets.add((subject, "part_of", meronym.name()))
+                triplets.add((subject, "has_part", meronym.name()))
             for meronym in synset.member_meronyms():
-                triplets.add((subject, "member_of", meronym.name()))
+                triplets.add((subject, "has_member", meronym.name()))
             for meronym in synset.substance_meronyms():
-                triplets.add((subject, "substance_of", meronym.name()))
+                triplets.add((subject, "has_substance", meronym.name()))
 
            
             for holonym in synset.part_holonyms():
-                triplets.add((subject, "has_part", holonym.name()))
+                triplets.add((subject, "part_of", holonym.name()))
             for holonym in synset.member_holonyms():
-                triplets.add((subject, "has_member", holonym.name()))
+                triplets.add((subject, "member_of", holonym.name()))
             for holonym in synset.substance_holonyms():
-                triplets.add((subject, "has_substance", holonym.name()))
+                triplets.add((subject, "substance_of", holonym.name()))
 
           
             for entailment in synset.entailments():
@@ -70,7 +70,7 @@ def extract_all_triplets():
 
            
             for entailed in synset.entailments():
-                triplets.add((subject, "entailed_by", entailed.name()))
+                triplets.add((entailed.name(), "entailed_by",subject))
 
             
 
