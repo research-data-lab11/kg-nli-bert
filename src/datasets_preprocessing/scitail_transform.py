@@ -31,7 +31,7 @@ def filter_dataset(dataset, max_len=128):
             filtered.append(item)
         else:
             removed += 1
-    return filtered
+    return filtered,removed
 
 train_path = "/path/to/your/workspace/name_workspace/tasks/data/scitail/train.jsonl"
 save_path = "/path/to/your/workspace/name_workspace/tasks/data/scitail/train_filtered.jsonl"
