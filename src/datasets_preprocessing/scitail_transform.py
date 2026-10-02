@@ -34,7 +34,7 @@ def filter_dataset(dataset, max_len=128):
     return filtered
 
 train_path = "/path/to/your/workspace/name_workspace/tasks/data/scitail/train.jsonl"
-save_path = "/path/to/your/workspace/name_workspace/tasks/data/scitail/test_filtered.jsonl"
+save_path = "/path/to/your/workspace/name_workspace/tasks/data/scitail/train_filtered.jsonl"
 
 dataset = load_jsonl(train_path)
 filtered_dataset = filter_dataset(dataset, max_len=128)
